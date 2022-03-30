@@ -1,0 +1,28 @@
+.middle-image{
+    width: 1180px;
+}
+img{
+    margin-top: 0px;
+    float: right;
+    width: 1180px;
+    height: 800px;
+}
+
+.image{
+    width: 70%;
+}
+
+.cross-text{
+    width: 297px;
+height: 25px;
+margin-left: 0px;
+}
+.comment-box{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+justify-content: flex-start;
+padding: 0px;
+width: 1180px;
+height: 270px;
+}

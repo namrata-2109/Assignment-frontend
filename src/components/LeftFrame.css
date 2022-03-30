@@ -1,0 +1,54 @@
+.LeftFrame{
+    width: 300px;
+    height: 1580px;
+    padding: 10px;
+    background: rgba(222, 240, 241, 1);
+
+}
+
+
+.block{
+    width: 270px;
+    display: flex;
+    flex-direction: column;
+    line-height: 0;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+}
+
+.top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    color: #706C6C;
+}
+
+.middle{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #000000;
+}
+
+.end{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    display: flex;
+    align-items: flex-end;
+    color: #767171;
+
+}

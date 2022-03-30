@@ -1,0 +1,15 @@
+.screen{
+    display: flex;
+    flex-direction: column;
+    background: rgba(222, 240, 241, 1);
+
+}
+.home-top{
+    height: 155px;
+}
+.home-bottom{
+    height: 1180px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
